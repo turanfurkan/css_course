@@ -1,0 +1,39 @@
+/* *{
+    font-family: monospace;
+    
+} */
+
+html{
+    font-size: 22px;
+
+}
+
+body{
+
+}
+
+main{
+    font-family: monospace;
+}
+
+button, input, select, textarea{
+    font: inherit;
+}
+
+h1, h2{
+    color: blue; 
+}
+
+p {
+    color: purple;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+    padding: 5px;
+}
+
+.gray{
+    color: gray;
+}
